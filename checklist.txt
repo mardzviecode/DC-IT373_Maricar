@@ -1,0 +1,5 @@
+[✔] Python Version
+[✔] venv active
+[✔] DJango Version
+[✔] Runserver Working
+[✔] Git Remote Set
